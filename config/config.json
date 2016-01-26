@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb://127.0.0.1:27017/db_upwork_test",
+    "secret": "thisisasecret",
+    "stripeApiKey": "pk_test_6pRNASCoBOKtIshFeQd4XMUh"
+}
