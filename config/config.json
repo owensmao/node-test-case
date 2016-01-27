@@ -1,5 +1,5 @@
 {
-    "mongoURI": "mongodb://127.0.0.1:27017/db_upwork_test",
+    "mongoURI": "mongodb://feiluncs:mustok$123@121.43.157.198:27017/db_mg_feilun_local",
     "secret": "thisisasecret",
     "stripeApiKey": "pk_test_6pRNASCoBOKtIshFeQd4XMUh"
 }
